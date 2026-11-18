@@ -14,8 +14,8 @@ Me chamo João Humberto de Aquino Ribeiro, tenho 18 anos e sou natural de Minas 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joao-hribeiro/joao-hribeiro/cards/contributions-dark.svg">
-    <img src="https://raw.githubusercontent.com/joao-hribeiro/joao-hribeiro/cards/contributions-light.svg" width="400" alt="Notable contributions">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joao-hribeiro/joao-hribeiro/cards/about-dark.svg">
+    <img src="https://raw.githubusercontent.com/joao-hribeiro/joao-hribeiro/cards/about-light.svg" width="400" alt="Sobre mim">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joao-hribeiro/joao-hribeiro/cards/weekly-dark.svg">

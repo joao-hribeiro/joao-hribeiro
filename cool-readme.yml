@@ -1,4 +1,4 @@
-show: [summary, languages, contributions, weekly] # ou streaks, about, repos
+show: [summary, languages, about, weekly]
 
 look:
   style: classic # opções: classic, dotmatrix, oled, floating
@@ -7,3 +7,15 @@ look:
 count:
   private: true  # contabiliza repositórios privados nos totais (sem expor nomes)
   orgs: true
+
+cards:
+  about:
+    title: Sobre mim
+    headline: "Olá, sou o *João Humberto*"
+    lines:
+      - "Cursando Engenharia Computacional na UFJF."
+      - "Técnico em Informática."
+      - "Membro da equipe Rinobot (Seguidor de Linha)."
+    facts:
+      "Área": "Controle e Estratégia"
+      "Local": "Minas Gerais"
