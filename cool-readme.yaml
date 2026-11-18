@@ -1,0 +1,9 @@
+show: [summary, languages, contributions, weekly] # ou streaks, about, repos
+
+look:
+  style: classic # opções: classic, dotmatrix, oled, floating
+  color: red   # opções: amber, green, purple, cyan, red, blue (ou default)
+
+count:
+  private: true  # contabiliza repositórios privados nos totais (sem expor nomes)
+  orgs: true
