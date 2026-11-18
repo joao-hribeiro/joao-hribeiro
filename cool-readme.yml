@@ -1,4 +1,4 @@
-show: [summary, languages, about, weekly]
+show: [about,weekly, summary, languages]
 
 look:
   style: classic # opções: classic, dotmatrix, oled, floating
@@ -11,11 +11,12 @@ count:
 cards:
   about:
     title: Sobre mim
-    headline: "Olá, sou o *João Humberto*"
+    headline: "João Ribeiro**"
     lines:
       - "Cursando Engenharia Computacional na UFJF."
       - "Técnico em Informática."
+      - "Entusiasta em ML/IA"
       - "Membro da equipe Rinobot (Seguidor de Linha)."
     facts:
       "Área": "Controle e Estratégia"
-      "Local": "Minas Gerais"
+      "Local": "Juiz de Fora - MG"
