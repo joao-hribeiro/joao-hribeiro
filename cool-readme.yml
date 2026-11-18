@@ -11,7 +11,7 @@ count:
 cards:
   about:
     title: Sobre mim
-    headline: "**João Ribeiro"
+    headline: "**João Ribeiro**"
     lines:
       - "Cursando Engenharia Computacional na UFJF."
       - "Entusiasta em ML/IA"
